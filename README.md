@@ -112,8 +112,7 @@ PUT /api/inventory/:productId
 POST /api/orders
 {
     "product_id": 1,
-    "quantity": 2,
-    "order_date": "2024-03-24T15:04:05Z"
+    "quantity": 2
 }
 ```
 
