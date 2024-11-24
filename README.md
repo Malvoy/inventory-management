@@ -1,6 +1,6 @@
 # Inventory Management System
 
-Sistem manajemen inventory backend yang dibangun dengan Go, Gin framework, dan MySQL. Sistem ini menyediakan RESTful API untuk mengelola produk, inventaris, dan pesanan, termasuk penanganan file untuk gambar produk.
+Sistem manajemen inventory backend sederhana yang dibangun dengan Go, Gin framework, dan MySQL. Sistem ini menyediakan RESTful API untuk mengelola produk, inventaris, dan pesanan, termasuk penanganan file untuk gambar produk.
 
 ## 🚀 Fitur
 
