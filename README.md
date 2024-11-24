@@ -116,6 +116,13 @@ POST /api/orders
 }
 ```
 
+## 📂 Struktur Database
+SQL scripts untuk desain dan data awal tersedia di folder `database/`:
+- `schema.sql`: Struktur tabel.
+- `sample_data.sql`: Data sampel.
+- `queries.sql`: Contoh query.
+
+
 ## 🤝 Kontribusi
 
 Apabila ingin berkontribusi selalu diterima! Silakan bisa fork repositori ini dan buat pull request untuk setiap perubahan yang ingin kakak-kakak usulkan.
